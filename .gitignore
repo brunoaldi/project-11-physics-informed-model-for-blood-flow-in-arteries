@@ -40,4 +40,8 @@
 *.out
 *.app
 
+# Mac and VSCode
+.vscode/*
+.DS_Store
+
 /*build*/
